@@ -1,2 +1,3 @@
-# arduino
-Material de aprendizaje para la programación del Arduino usando varios lenguajes de programación
+Repository Arduino
+==================
+Learning material for Arduino programming using various programming languages.
