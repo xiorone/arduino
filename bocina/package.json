@@ -1,0 +1,23 @@
+{
+  "name": "bonina",
+  "version": "1.0.0",
+  "description": "Ejemplo basicos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bonina.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeBots",
+    "arduino",
+    "Johnny",
+    "JavaScript",
+    "Node.js"
+  ],
+  "author": "Giovanni Hurtado",
+  "license": "MIT",
+  "dependencies": {
+    "j5-songs": "0.0.9",
+    "johnny-five": "^0.8.85"
+  }
+}
